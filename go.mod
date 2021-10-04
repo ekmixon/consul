@@ -14,7 +14,7 @@ require (
 	github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e
 	github.com/armon/go-metrics v0.3.9
 	github.com/armon/go-radix v1.0.0
-	github.com/aws/aws-sdk-go v1.25.41
+	github.com/aws/aws-sdk-go v1.40.54
 	github.com/coredns/coredns v1.1.2
 	github.com/coreos/go-oidc v2.1.0+incompatible
 	github.com/digitalocean/godo v1.10.0 // indirect
@@ -72,7 +72,7 @@ require (
 	github.com/mitchellh/reflectwalk v1.0.1
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pierrec/lz4 v2.5.2+incompatible // indirect
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/pquerna/cachecontrol v0.0.0-20180517163645-1555304b9b35 // indirect
 	github.com/prometheus/client_golang v1.4.0
 	github.com/rboyer/safeio v0.2.1
@@ -82,7 +82,7 @@ require (
 	go.opencensus.io v0.22.0 // indirect
 	go.uber.org/goleak v1.1.10
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
-	golang.org/x/net v0.0.0-20210410081132-afb366fc7cd1
+	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20210817190340-bfb29a6856f2
