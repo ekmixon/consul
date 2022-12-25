@@ -87,7 +87,7 @@
     "dayjs": "^1.9.3",
     "deepmerge": "^4.2.2",
     "ember-assign-helper": "^0.3.0",
-    "ember-auto-import": "^1.5.3",
+    "ember-auto-import": "^2.0.0",
     "ember-can": "^3.0.0",
     "ember-changeset-conditional-validations": "^0.6.0",
     "ember-changeset-validations": "~3.9.0",
