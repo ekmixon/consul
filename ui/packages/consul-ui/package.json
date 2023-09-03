@@ -138,7 +138,7 @@
     "ember-stargate": "^0.2.0",
     "ember-string-fns": "^1.4.0",
     "ember-test-selectors": "^5.0.0",
-    "ember-truth-helpers": "^3.0.0",
+    "ember-truth-helpers": "^4.0.0",
     "eslint": "^7.12.1",
     "eslint-plugin-ember": "^7.7.2",
     "eslint-plugin-node": "^11.0.0",
