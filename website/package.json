@@ -47,7 +47,7 @@
     "react-dom": "16.13.1"
   },
   "devDependencies": {
-    "@hashicorp/platform-cli": "^0.2.0",
+    "@hashicorp/platform-cli": "^2.7.3",
     "@hashicorp/platform-nextjs-plugin": "^0.1.0",
     "@hashicorp/platform-types": "^0.1.0",
     "@types/react": "^17.0.3",
